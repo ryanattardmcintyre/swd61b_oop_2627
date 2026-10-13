@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2235D27-4C7C-4045-955C-9405EB897E10}|Week1_IntroToClasses\\Week1_IntroToClasses.csproj|c:\\users\\attar\\source\\repos\\swd61b_2627\\week1_introtoclasses\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2235D27-4C7C-4045-955C-9405EB897E10}|Week1_IntroToClasses\\Week1_IntroToClasses.csproj|solutionrelative:week1_introtoclasses\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|c:\\users\\attar\\source\\repos\\swd61b_2627\\week2_inheritance\\example2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|solutionrelative:week2_inheritance\\example2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2235D27-4C7C-4045-955C-9405EB897E10}|Week1_IntroToClasses\\Week1_IntroToClasses.csproj|c:\\users\\attar\\source\\repos\\swd61b_2627\\week1_introtoclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2235D27-4C7C-4045-955C-9405EB897E10}|Week1_IntroToClasses\\Week1_IntroToClasses.csproj|solutionrelative:week1_introtoclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|c:\\users\\attar\\source\\repos\\swd61b_2627\\week2_inheritance\\example2\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|solutionrelative:week2_inheritance\\example2\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2235D27-4C7C-4045-955C-9405EB897E10}|Week1_IntroToClasses\\Week1_IntroToClasses.csproj|c:\\users\\attar\\source\\repos\\swd61b_2627\\week1_introtoclasses\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2235D27-4C7C-4045-955C-9405EB897E10}|Week1_IntroToClasses\\Week1_IntroToClasses.csproj|solutionrelative:week1_introtoclasses\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|c:\\users\\attar\\source\\repos\\swd61b_2627\\week2_inheritance\\week2_inheritance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|solutionrelative:week2_inheritance\\week2_inheritance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|c:\\users\\attar\\source\\repos\\swd61b_2627\\week2_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|solutionrelative:week2_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|c:\\users\\attar\\source\\repos\\swd61b_2627\\week2_inheritance\\example1\\loanaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|solutionrelative:week2_inheritance\\example1\\loanaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|c:\\users\\attar\\source\\repos\\swd61b_2627\\week2_inheritance\\example1\\termaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|solutionrelative:week2_inheritance\\example1\\termaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|c:\\users\\attar\\source\\repos\\swd61b_2627\\week2_inheritance\\example1\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|solutionrelative:week2_inheritance\\example1\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,8 +37,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 190,
-          "SelectedChildIndex": 9,
+          "DockedWidth": 160,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,55 +71,107 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": 1,
+          "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Attendance.cs",
-              "DocumentMoniker": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week1_IntroToClasses\\Attendance.cs",
-              "RelativeDocumentMoniker": "Week1_IntroToClasses\\Attendance.cs",
-              "ToolTip": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week1_IntroToClasses\\Attendance.cs",
-              "RelativeToolTip": "Week1_IntroToClasses\\Attendance.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T09:05:44.501Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week1_IntroToClasses\\Person.cs",
-              "RelativeDocumentMoniker": "Week1_IntroToClasses\\Person.cs",
-              "ToolTip": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week1_IntroToClasses\\Person.cs",
-              "RelativeToolTip": "Week1_IntroToClasses\\Person.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAwBsAAAAXAAAAAAAAAA==",
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Example2\\Circle.cs",
+              "RelativeDocumentMoniker": "Week2_Inheritance\\Example2\\Circle.cs",
+              "ToolTip": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Example2\\Circle.cs",
+              "RelativeToolTip": "Week2_Inheritance\\Example2\\Circle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T08:38:31.17Z",
+              "WhenOpened": "2026-10-13T09:06:58.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week1_IntroToClasses\\Program.cs",
-              "RelativeDocumentMoniker": "Week1_IntroToClasses\\Program.cs",
-              "ToolTip": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week1_IntroToClasses\\Program.cs",
-              "RelativeToolTip": "Week1_IntroToClasses\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBMAAAAJAAAAAAAAAA==",
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Example2\\Point.cs",
+              "RelativeDocumentMoniker": "Week2_Inheritance\\Example2\\Point.cs",
+              "ToolTip": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Example2\\Point.cs",
+              "RelativeToolTip": "Week2_Inheritance\\Example2\\Point.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T08:30:54.946Z",
+              "WhenOpened": "2026-10-13T08:51:14.165Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 403,
-          "SelectedChildIndex": -1,
-          "Children": [
+            },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Week2_Inheritance",
+              "DocumentMoniker": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Week2_Inheritance.csproj",
+              "RelativeDocumentMoniker": "Week2_Inheritance\\Week2_Inheritance.csproj",
+              "ToolTip": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Week2_Inheritance.csproj",
+              "RelativeToolTip": "Week2_Inheritance\\Week2_Inheritance.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-13T08:50:32.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoanAccount.cs",
+              "DocumentMoniker": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Example1\\LoanAccount.cs",
+              "RelativeDocumentMoniker": "Week2_Inheritance\\Example1\\LoanAccount.cs",
+              "ToolTip": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Example1\\LoanAccount.cs",
+              "RelativeToolTip": "Week2_Inheritance\\Example1\\LoanAccount.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:44:25.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TermAccount.cs",
+              "DocumentMoniker": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Example1\\TermAccount.cs",
+              "RelativeDocumentMoniker": "Week2_Inheritance\\Example1\\TermAccount.cs",
+              "ToolTip": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Example1\\TermAccount.cs",
+              "RelativeToolTip": "Week2_Inheritance\\Example1\\TermAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:41:24.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Week2_Inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Program.cs",
+              "RelativeToolTip": "Week2_Inheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:32:52.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Example1\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "Week2_Inheritance\\Example1\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Example1\\SavingsAccount.cs",
+              "RelativeToolTip": "Week2_Inheritance\\Example1\\SavingsAccount.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:28:40.247Z",
+              "EditorCaption": ""
             }
           ]
         }
