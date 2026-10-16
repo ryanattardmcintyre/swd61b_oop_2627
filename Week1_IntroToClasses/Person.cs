@@ -73,7 +73,7 @@ namespace Week1_IntroToClasses
         // the data within an object
         public void SetDefault()
         {
-            name = "";surname = ""; email = ""; Active = false; contactNumber = 0; 
+            name = ""; Surname = ""; email = ""; Active = false; contactNumber = 0; 
         }
 
         public int CalculateAge()

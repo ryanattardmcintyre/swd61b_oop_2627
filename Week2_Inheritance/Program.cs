@@ -1,14 +1,17 @@
 ﻿using Week2_Inheritance.Example1;
 using Week2_Inheritance.Example2;
+using Week2_Inheritance.Example3;
 
-Point myPoint = new Point();
-myPoint.X = 1; myPoint.Y = 1;
+User a = new User();
+a.Name = "Joe"; a.Surname = "Attard";
+a.Username = "test";
 
-Circle myCircle = new Circle();
-myCircle.X = 100; myCircle.Y = 100;
-myCircle.Radius = 200;
+User b = new User();
+b.Name = "Peter"; b.Surname = "Grech";
+b.Username = "test1";
 
-Console.WriteLine(myPoint.Draw());
+Console.WriteLine($"Are these users the same: {a.Equals(b)}");
 
-Console.WriteLine(myCircle.Draw());
-Console.ReadKey();
+Console.ReadLine();
+
+
