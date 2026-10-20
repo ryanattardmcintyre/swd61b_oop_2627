@@ -38,7 +38,7 @@ namespace Week2_Inheritance.Example3
         {
             if (obj is User)
             {
-                return obj.GetHashCode() == this.GetHashCode();
+                return ((User)obj).Username == this.Username;
                 
             }
             else return false;

@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace Week2_Inheritance.Example2
 {
+    //public => Pascal Case (e.g. in class, in properties)
+    //private => camel Case (e.g. fields, parameters)
+
+
     public class Sphere: Circle
     {
         public Sphere (int x, int y, int z, int radius): base(x, y, radius)
