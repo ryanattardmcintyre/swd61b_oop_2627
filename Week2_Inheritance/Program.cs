@@ -1,7 +1,25 @@
 ﻿using Week2_Inheritance.Example1;
 using Week2_Inheritance.Example2;
 using Week2_Inheritance.Example3;
+using Week2_Inheritance.Example4;
 
+
+TextDigitalFile myFile = new TextDigitalFile();
+myFile.Filename = "C://users/attar/downloads/myfile.txt";
+myFile.Text = "Hello World";
+myFile.Save(false, "this is the new text", "Hello.txt");
+
+
+
+
+
+
+
+//1. Add a Cone class that inherits from Point/Circle/Sphere/Cylinder
+    //Cone => X,Y,Z,Radius,Height, FindArea, FindPerimeter, FindVolume
+//2. Update Program.cs to accomodate the addition of a Cone shape into myShapes
+//3. Offer the user the option to FindVolumes() of any shapes which allow you
+     //to find the volume of
 
 List<Point>myShapes = new List<Point>();
 int choice;
@@ -37,13 +55,13 @@ do
 
                 case 2: //Circle
                     Console.WriteLine("Insert coordinate x:");
-                    int x1 = Convert.ToInt32(Console.ReadLine());
+                    x = Convert.ToInt32(Console.ReadLine());
                     Console.WriteLine("Insert coordinate y:");
-                    int y1 = Convert.ToInt32(Console.ReadLine());
+                     y = Convert.ToInt32(Console.ReadLine());
                     Console.WriteLine("Insert radius:");
                     int radius = Convert.ToInt32(Console.ReadLine());
 
-                    Circle c = new Circle(x1, y1, radius);
+                    Circle c = new Circle(x, y, radius);
                     myShapes.Add(c);
 
                     Console.WriteLine("Point added!");
