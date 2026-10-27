@@ -4,11 +4,6 @@ using Week2_Inheritance.Example3;
 using Week2_Inheritance.Example4;
 
 
-TextDigitalFile myFile = new TextDigitalFile();
-myFile.Filename = "C://users/attar/downloads/myfile.txt";
-myFile.Text = "Hello World";
-myFile.Save(false, "this is the new text", "Hello.txt");
-
 
 
 
