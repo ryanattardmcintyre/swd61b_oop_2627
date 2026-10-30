@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|c:\\users\\attar\\source\\repos\\swd61b_2627\\week2_inheritance\\example5\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|solutionrelative:week2_inheritance\\example5\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91CEF68A-A59E-40C2-98FC-FAB2796BFAAA}|Week3_InterfacesAndAbstractClasses\\Week3_InterfacesAndAbstractClasses.csproj|c:\\users\\attar\\source\\repos\\swd61b_2627\\week3_interfacesandabstractclasses\\example1\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CEF68A-A59E-40C2-98FC-FAB2796BFAAA}|Week3_InterfacesAndAbstractClasses\\Week3_InterfacesAndAbstractClasses.csproj|solutionrelative:week3_interfacesandabstractclasses\\example1\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|c:\\users\\attar\\source\\repos\\swd61b_2627\\week2_inheritance\\week2_inheritance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|solutionrelative:week2_inheritance\\week2_inheritance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{91CEF68A-A59E-40C2-98FC-FAB2796BFAAA}|Week3_InterfacesAndAbstractClasses\\Week3_InterfacesAndAbstractClasses.csproj|c:\\users\\attar\\source\\repos\\swd61b_2627\\week3_interfacesandabstractclasses\\example1\\cardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CEF68A-A59E-40C2-98FC-FAB2796BFAAA}|Week3_InterfacesAndAbstractClasses\\Week3_InterfacesAndAbstractClasses.csproj|solutionrelative:week3_interfacesandabstractclasses\\example1\\cardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|c:\\users\\attar\\source\\repos\\swd61b_2627\\week2_inheritance\\example4\\digitalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|solutionrelative:week2_inheritance\\example4\\digitalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91CEF68A-A59E-40C2-98FC-FAB2796BFAAA}|Week3_InterfacesAndAbstractClasses\\Week3_InterfacesAndAbstractClasses.csproj|c:\\users\\attar\\source\\repos\\swd61b_2627\\week3_interfacesandabstractclasses\\example1\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CEF68A-A59E-40C2-98FC-FAB2796BFAAA}|Week3_InterfacesAndAbstractClasses\\Week3_InterfacesAndAbstractClasses.csproj|solutionrelative:week3_interfacesandabstractclasses\\example1\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|c:\\users\\attar\\source\\repos\\swd61b_2627\\week2_inheritance\\example4\\textdigitalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|solutionrelative:week2_inheritance\\example4\\textdigitalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91CEF68A-A59E-40C2-98FC-FAB2796BFAAA}|Week3_InterfacesAndAbstractClasses\\Week3_InterfacesAndAbstractClasses.csproj|c:\\users\\attar\\source\\repos\\swd61b_2627\\week3_interfacesandabstractclasses\\example1\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CEF68A-A59E-40C2-98FC-FAB2796BFAAA}|Week3_InterfacesAndAbstractClasses\\Week3_InterfacesAndAbstractClasses.csproj|solutionrelative:week3_interfacesandabstractclasses\\example1\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|c:\\users\\attar\\source\\repos\\swd61b_2627\\week2_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{984FE485-4DAD-4762-B86C-ABAC49A5BBCC}|Week2_Inheritance\\Week2_Inheritance.csproj|solutionrelative:week2_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91CEF68A-A59E-40C2-98FC-FAB2796BFAAA}|Week3_InterfacesAndAbstractClasses\\Week3_InterfacesAndAbstractClasses.csproj|c:\\users\\attar\\source\\repos\\swd61b_2627\\week3_interfacesandabstractclasses\\example1\\idiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CEF68A-A59E-40C2-98FC-FAB2796BFAAA}|Week3_InterfacesAndAbstractClasses\\Week3_InterfacesAndAbstractClasses.csproj|solutionrelative:week3_interfacesandabstractclasses\\example1\\idiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,35 +29,9 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 160,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 110,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Notification.cs",
-              "DocumentMoniker": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Example5\\Notification.cs",
-              "RelativeDocumentMoniker": "Week2_Inheritance\\Example5\\Notification.cs",
-              "ToolTip": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Example5\\Notification.cs",
-              "RelativeToolTip": "Week2_Inheritance\\Example5\\Notification.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAA8wCIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T09:06:15.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Week2_Inheritance",
-              "DocumentMoniker": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Week2_Inheritance.csproj",
-              "RelativeDocumentMoniker": "Week2_Inheritance\\Week2_Inheritance.csproj",
-              "ToolTip": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Week2_Inheritance.csproj",
-              "RelativeToolTip": "Week2_Inheritance\\Week2_Inheritance.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-23T09:05:58.899Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -89,44 +63,76 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Program.cs",
-              "RelativeDocumentMoniker": "Week2_Inheritance\\Program.cs",
-              "ToolTip": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Program.cs",
-              "RelativeToolTip": "Week2_Inheritance\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PaypalPayment.cs",
+              "DocumentMoniker": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week3_InterfacesAndAbstractClasses\\Example1\\PaypalPayment.cs",
+              "RelativeDocumentMoniker": "Week3_InterfacesAndAbstractClasses\\Example1\\PaypalPayment.cs",
+              "ToolTip": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week3_InterfacesAndAbstractClasses\\Example1\\PaypalPayment.cs",
+              "RelativeToolTip": "Week3_InterfacesAndAbstractClasses\\Example1\\PaypalPayment.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T08:45:51.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TextDigitalFile.cs",
-              "DocumentMoniker": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Example4\\TextDigitalFile.cs",
-              "RelativeDocumentMoniker": "Week2_Inheritance\\Example4\\TextDigitalFile.cs",
-              "ToolTip": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Example4\\TextDigitalFile.cs",
-              "RelativeToolTip": "Week2_Inheritance\\Example4\\TextDigitalFile.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBkAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T08:28:10.521Z",
+              "WhenOpened": "2026-10-27T10:06:11.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DigitalFile.cs",
-              "DocumentMoniker": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Example4\\DigitalFile.cs",
-              "RelativeDocumentMoniker": "Week2_Inheritance\\Example4\\DigitalFile.cs",
-              "ToolTip": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week2_Inheritance\\Example4\\DigitalFile.cs",
-              "RelativeToolTip": "Week2_Inheritance\\Example4\\DigitalFile.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAABAAAAAAAAAAA==",
+              "Title": "IPayment.cs",
+              "DocumentMoniker": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week3_InterfacesAndAbstractClasses\\Example1\\IPayment.cs",
+              "RelativeDocumentMoniker": "Week3_InterfacesAndAbstractClasses\\Example1\\IPayment.cs",
+              "ToolTip": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week3_InterfacesAndAbstractClasses\\Example1\\IPayment.cs",
+              "RelativeToolTip": "Week3_InterfacesAndAbstractClasses\\Example1\\IPayment.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T08:19:06.432Z",
+              "WhenOpened": "2026-10-27T09:57:49.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CashPayment.cs",
+              "DocumentMoniker": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week3_InterfacesAndAbstractClasses\\Example1\\CashPayment.cs",
+              "RelativeDocumentMoniker": "Week3_InterfacesAndAbstractClasses\\Example1\\CashPayment.cs",
+              "ToolTip": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week3_InterfacesAndAbstractClasses\\Example1\\CashPayment.cs",
+              "RelativeToolTip": "Week3_InterfacesAndAbstractClasses\\Example1\\CashPayment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T09:54:32.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week3_InterfacesAndAbstractClasses\\Example1\\IDiscount.cs",
+              "RelativeDocumentMoniker": "Week3_InterfacesAndAbstractClasses\\Example1\\IDiscount.cs",
+              "ToolTip": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week3_InterfacesAndAbstractClasses\\Example1\\IDiscount.cs",
+              "RelativeToolTip": "Week3_InterfacesAndAbstractClasses\\Example1\\IDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T09:52:55.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardPayment.cs",
+              "DocumentMoniker": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week3_InterfacesAndAbstractClasses\\Example1\\CardPayment.cs",
+              "RelativeDocumentMoniker": "Week3_InterfacesAndAbstractClasses\\Example1\\CardPayment.cs",
+              "ToolTip": "C:\\Users\\attar\\source\\repos\\SWD61B_2627\\Week3_InterfacesAndAbstractClasses\\Example1\\CardPayment.cs",
+              "RelativeToolTip": "Week3_InterfacesAndAbstractClasses\\Example1\\CardPayment.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAywC8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T09:37:23.368Z",
               "EditorCaption": ""
             }
           ]
