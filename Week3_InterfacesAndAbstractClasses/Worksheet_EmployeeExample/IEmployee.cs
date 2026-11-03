@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 namespace Week3_InterfacesAndAbstractClasses.Worksheet_EmployeeExample
 {
 
-    //Facade design pattern = to explain!
-    internal interface IEmployee: IBonus, ISalary
+    //This design change is also known as "Facade design pattern"
+    public interface IEmployee: IBonus, ISalary
     {
         string Name { get; set; }
     }

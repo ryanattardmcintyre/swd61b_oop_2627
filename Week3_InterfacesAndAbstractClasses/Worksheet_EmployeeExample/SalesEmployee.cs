@@ -16,7 +16,7 @@ otherwise return zero.
 Example: Base salary EUR 1,800; monthly sales EUR 25,000. Commission = EUR 750; monthly salary =
 EUR 2,550; bonus = EUR 1,250.
      */
-    public class SalesEmployee : IBonus, ISalary
+    public class SalesEmployee : IEmployee
     {
         public string Name { get; set; }
         public decimal BaseSalary { get; set; }
@@ -30,6 +30,7 @@ EUR 2,550; bonus = EUR 1,250.
 
         public decimal CalculateSalary()
         {
+            
             return BaseSalary + (0.03M * MonthlySales);
         }
     }

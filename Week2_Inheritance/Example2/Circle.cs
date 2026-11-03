@@ -22,7 +22,10 @@ namespace Week2_Inheritance.Example2
         {
             return $"This is a Circle drawn at {X}, {Y} with radius {Radius}";
         }
-
+        public string Draw(string message)
+        {
+            return this.Draw() + message;
+        }
         public virtual double FindArea()
         { 
                 return Math.PI * Math.Pow(Radius, 2);

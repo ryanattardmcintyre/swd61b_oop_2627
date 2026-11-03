@@ -1,6 +1,35 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Week3_InterfacesAndAbstractClasses.Example1;
+using Week3_InterfacesAndAbstractClasses.Example3_AbstractClasses;
 using Week3_InterfacesAndAbstractClasses.Worksheet_EmployeeExample;
+
+//Consuming Abstract class
+
+Product product = new Furniture();
+product.WholesalePrice = 100;
+product.Dimensions = new Dimension() { Length = 1, Height = 1.5, Width = 2 };
+
+List<Product> myProducts = new List<Product>();
+myProducts.Add(product);
+myProducts.Add(new Electronic() { Name="Mobile", WholesalePrice=500, DoesItHaveABattery=true, Weight=600 });
+
+foreach(Product p in myProducts)
+{
+    Console.WriteLine("Type of product: " + p.GetType().Name);
+    Console.WriteLine("Retail price: " + p.CalculateRetailPrice(0.18));
+    Console.WriteLine("Shipping cost: " + p.CalculateShippingCost());
+    Console.WriteLine("Total cost: " + (p.CalculateRetailPrice(0.18) + p.CalculateShippingCost()));
+    Console.WriteLine("");
+}
+
+Console.ReadKey();
+
+
+
+
+
+
+
 
 /*
  * Create at least two objects of each employee type.
@@ -20,15 +49,21 @@ demonstrates interface inheritance.
  */
 
 FullTimeEmployee myFulltimer1 = new FullTimeEmployee();
+myFulltimer1.Name = "Joe"; myFulltimer1.MonthlySalary = 1000; myFulltimer1.YearsOfService = 5; 
 FullTimeEmployee myFulltimer2 = new  FullTimeEmployee();
+myFulltimer2.Name = "Mary"; myFulltimer2.MonthlySalary = 2000; myFulltimer2.YearsOfService = 10;
 
 PartTimeEmployee partTimeEmployee1 = new PartTimeEmployee();
+partTimeEmployee1.Name = "Jane"; partTimeEmployee1.HourlyRate = 10; partTimeEmployee1.HoursWorked = 40;
 PartTimeEmployee partTimeEmployee2 = new PartTimeEmployee();
+partTimeEmployee2.Name = "Peter"; partTimeEmployee2.HourlyRate = 11; partTimeEmployee2.HoursWorked = 30;
 
 SalesEmployee sales1 = new SalesEmployee();
+sales1.Name = "Robert"; sales1.MonthlySales = 20001; sales1.BaseSalary = 500;
 SalesEmployee sales2 = new SalesEmployee();
+sales2.Name = "Maya"; sales2.MonthlySales = 40000; sales2.BaseSalary = 500;
 
-List<ISalary> myEmployees = new List<ISalary>(); //creating an object of List<ISalary>()
+List<IEmployee> myEmployees = new List<IEmployee>(); //creating an object of List<ISalary>()
 myEmployees.Add(myFulltimer1);
 myEmployees.Add(myFulltimer2);
 myEmployees.Add(partTimeEmployee1);
@@ -36,7 +71,16 @@ myEmployees.Add(partTimeEmployee2);
 myEmployees.Add(sales1);
 myEmployees.Add(sales2);
 
-foreach(ISalary employee in myEmployees)
+decimal totalSalaries = 0; decimal totalBonuses = 0;
+foreach(IEmployee employee in myEmployees)
 {
-  
+    Console.WriteLine($"Employee: {employee.Name}, Salary: {employee.CalculateSalary()}, Bonus: {employee.CalculateBonus()}");
+    totalSalaries += employee.CalculateSalary();
+    totalBonuses += employee.CalculateBonus();
 }
+Console.WriteLine("");
+Console.WriteLine($"Total Expenditure in Salaries: {totalSalaries}");
+Console.WriteLine($"Total Expenditure in Bonuses: {totalBonuses}");
+
+Console.ReadKey();
+

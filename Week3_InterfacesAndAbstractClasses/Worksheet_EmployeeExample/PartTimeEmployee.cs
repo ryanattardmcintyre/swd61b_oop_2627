@@ -13,7 +13,7 @@ CalculateBonus(): If HoursWorked is greater than 80, return 5% of monthly salary
     otherwise return zero.
 Example: EUR 15 per hour x 100 hours = EUR 1,500 monthly salary; bonus = EUR 75.
   */
-    public class PartTimeEmployee: IBonus, ISalary
+    public class PartTimeEmployee: IEmployee
     {
         public string Name { get; set; }
         public decimal HourlyRate { get; set; }

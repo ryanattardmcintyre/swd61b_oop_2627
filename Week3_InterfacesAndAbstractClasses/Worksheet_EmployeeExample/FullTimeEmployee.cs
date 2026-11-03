@@ -20,7 +20,7 @@ Example: Monthly salary EUR 2,500; 7 years of service. Annual salary = EUR 30,00
 
 
      */
-    public class FullTimeEmployee: IBonus, ISalary
+    public class FullTimeEmployee: IEmployee
     {
         public string Name { get; set; }
         public decimal MonthlySalary { get; set; }
