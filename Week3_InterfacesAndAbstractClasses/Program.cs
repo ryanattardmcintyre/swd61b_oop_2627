@@ -2,6 +2,7 @@
 using Week3_InterfacesAndAbstractClasses.Example1;
 using Week3_InterfacesAndAbstractClasses.Example3_AbstractClasses;
 using Week3_InterfacesAndAbstractClasses.Worksheet_EmployeeExample;
+using Week3_InterfacesAndAbstractClasses.Worksheet_NotificationsExample;
 
 //Consuming Abstract class
 
@@ -83,4 +84,29 @@ Console.WriteLine($"Total Expenditure in Salaries: {totalSalaries}");
 Console.WriteLine($"Total Expenditure in Bonuses: {totalBonuses}");
 
 Console.ReadKey();
+
+
+
+Subscriber s1 = new Subscriber(1, "ryan", "79797979", "ryan.attard@mcast.edu.mt");
+Subscriber s2 = new Subscriber(1, "joe", "79797333", "ryan.attard@mcast.edu.mt");
+Subscriber s3 = new Subscriber(1, "robert", "79797444", "ryan.attard@mcast.edu.mt");
+
+Notification emailNotification = new EmailNotification("Newsletter 1", "...");
+emailNotification.AddSubscriber(s1);
+emailNotification.AddSubscriber(s2);
+
+Notification smsNotification = new SmsNotification("Abc. Ltd", "...");
+smsNotification.AddSubscriber(s3);
+
+
+List<Notification> notifications = new List<Notification>();
+notifications.Add(emailNotification);
+notifications.Add(smsNotification);
+foreach(var n in notifications)
+{
+    n.NotifySubscribers();
+}
+
+
+
 
