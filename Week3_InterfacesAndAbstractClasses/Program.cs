@@ -2,7 +2,61 @@
 using Week3_InterfacesAndAbstractClasses.Example1;
 using Week3_InterfacesAndAbstractClasses.Example3_AbstractClasses;
 using Week3_InterfacesAndAbstractClasses.Worksheet_EmployeeExample;
+using Week3_InterfacesAndAbstractClasses.Worksheet_Game;
 using Week3_InterfacesAndAbstractClasses.Worksheet_NotificationsExample;
+
+
+Random r = new Random();
+
+
+int character2 = r.Next(1, 4);
+
+
+List<Character> users = new List<Character>();
+int noOfPlayers = 2;
+for (int i = 0; i < noOfPlayers; i++)
+{
+    int characterChoice = r.Next(1, 4);
+    switch (characterChoice)
+    {
+        case 1:
+            users.Add(new Warrior());
+            break;
+
+        case 2:
+            users.Add(new Mage());
+            break;
+
+        case 3:
+            users.Add(new Priest());
+            break;
+    }
+}
+//-------------------------------------------------------------------
+bool onlyOneCharacterLeft = false;
+while (onlyOneCharacterLeft == true)
+{
+    int turnOfUser = r.Next(1, 3);
+    if(turnOfUser == 1)
+    {
+        Character c = users.ElementAt(1);
+        Console.WriteLine("Player 1 are you ready?  What would you like to do");
+        Console.WriteLine("1. Attack");
+        if (c.GetType() == typeof(Priest)) { Console.WriteLine("2. Heal"); }
+        Console.WriteLine("3. Surrender");
+        //choiceOfUser = Console.ReadLine();
+
+        //switch(choiceOfUser)
+        //{case 1:
+        //   //Ask the user which opponent he/she would like to attack by inputting the index number
+        //   //Character opponent = users.ElementAt(index);
+        //   c.Attack(opponent);
+        //   check if health of opponent =< 0 => mark onlyOneCharacterLeft  =true;
+        //    break;
+        //
+        //}
+    }
+
 
 //Consuming Abstract class
 
